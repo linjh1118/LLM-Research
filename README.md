@@ -9,24 +9,15 @@
 
 # 项目简介
 LLM research的主要目标是给打算跟踪LLM学术前沿的研究人员提供支持。
-
-该项目将由方式一或方式二完成
-
-**方式一**，我们希望汇集有开源精神并且渴望学术交流的LLM学习者，进而建立一个小型论文精读社区。在这个社区中，我们会分工协作阅读LLM领域的经典论文列表，同时每周组织一次的~~(组会)~~讨论会，旨在促进交流，让社区的每一个人可以快速了解LLM领域各方向的概况，同时也确保每个人都认真阅读了文献，起到一个监督的作用。此外，我们鼓励每位参与者在讨论会前撰写自己的笔记，并将其开源到本仓库，以便未来更多的学习者能够快速跟上前沿。
-**方式二**，我们将组建一个团队，于近期三四个月，撰写好相应文章的精读笔记。
+我们小组将于近期三四个月撰写好相应文章的精读笔记。
 
 <img src="./images/readme1.png" alt="image-20231130085512212" width="300" />
-<!-- <img src="./images/readme1.png" alt="image-20231130085512212" style="zoom: 33%;" /> -->
-
-
-
-
 
 
 # 经典论文列表
 
 ## Ch1. Parameter-Efficient Fine-Tuning
-目前还没有一个仓库有系统地整理“parameter-efficient-finetuning”领域论文。所以本仓库优先整理了这方面的论文。
+目前还没有一个仓库有系统地整理“parameter-efficient-finetuning”领域论文。所以本仓库优先整理了这方面的论文。力求覆盖peft库中的基础微调方式。
 
 ### 1. Low Rank Decomposition Method
 
@@ -85,8 +76,6 @@ LLM research的主要目标是给打算跟踪LLM学术前沿的研究人员提�
 | [Chain of Thought Prompting Elicits Reasoning in Large Language Models](https://www.semanticscholar.org/paper/1b6e810ce0afd0dd093f789d2b2742d047e316d5) |      | Nips2022    | 2141     |         |       |      |
 | [Challenging BIG-Bench Tasks and Whether Chain-of-Thought Can Solve Them](https://www.semanticscholar.org/paper/663a41c866d49ce052801fbc88947d39764cad29) |      | ACL2022     |          |         |       |      |
 | [Automatic Chain of Thought Prompting in Large Language Models](https://www.semanticscholar.org/paper/90350aa626bed47b02d0c162462e5b0ca82be6b2) |      | ICLR2022    |          |         |       |      |
-| [Automatic Chain of Thought Prompting in Large Language Models](https://www.semanticscholar.org/paper/90350aa626bed47b02d0c162462e5b0ca82be6b2) |      | ICLR2022    |          |         |       |      |
-| [Automatic Chain of Thought Prompting in Large Language Models](https://www.semanticscholar.org/paper/90350aa626bed47b02d0c162462e5b0ca82be6b2) |      |             |          |         |       |      |
 | [Multimodal Chain-of-Thought Reasoning in Language Models](https://www.semanticscholar.org/paper/780a7f5e8ba9b4b451e3dfee1bcfb0f68aba5050) |      |             |          |         |       |      |
 |                                                              |      |             |          |         |       |      |
 
@@ -133,11 +122,11 @@ LLM research的主要目标是给打算跟踪LLM学术前沿的研究人员提�
 
 **核心贡献者**
 
-- [林景豪-项目负责人&核心内容创作者](https://github.com/linjh1118)（Datawhale成员-东北大学研究生）
-- [王淏-项目负责人&核心内容创作者](https://github.com/Charon-ops)（Datawhale成员-协和医学院医工所研究生）
-- 袁鑫喆 核心内容创作者~
-- 胡锦琛 核心内容创作者~
-- 余绍缘 核心内容创作者~
+- [林景豪-项目负责人&核心内容创作者](https://github.com/linjh1118)（东北大学研究生）
+- [王淏-项目负责人&核心内容创作者](https://github.com/Charon-ops)（协和医学院医工所研究生）
+- [余绍缘 核心内容创作者](https://github.com/shaoyuanyu)
+- [袁鑫喆 核心内容创作者](https://github.com)
+- [胡锦琛 核心内容创作者](https://github.com)
 
 **核心审查者**
 
