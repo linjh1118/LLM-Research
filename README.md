@@ -23,7 +23,7 @@ LLM research的主要目标是给打算跟踪LLM学术前沿的研究人员提�
 
 | Title                                                        | Date    | Publication | citation | Summary | Notes |      |
 | ------------------------------------------------------------ | ------- | ----------- | -------- | ------- | ----- | ---- |
-| [LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/pdf/2106.09685.pdf) | 2021-10 | arXiv       |          |         |       |      |
+| [LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/pdf/2106.09685.pdf) | 2021-10 | arXiv       |          |         |       |[Lora_series_notes](Lora/Lora_series.md)|
 | [Adaptive Budget Allocation for Parameter-Efficient Fine-Tuning (AdaLoRA)](https://arxiv.org/pdf/2303.10512.pdf) | 2023-02 | ICLR        |          |         |       |      |
 | [QLoRA: Efficient Finetuning of Quantized LLMs](https://arxiv.org/pdf/2305.14314.pdf) | 2023-05 | arxiv       |          |         |       |      |
 | [LongLoRA: Efficient Fine-tuning of Long-Context Large Language Models](https://arxiv.org/abs/2309.12307) | 2023-09 | arxiv       |          |         |       |      |
@@ -84,13 +84,29 @@ LLM research的主要目标是给打算跟踪LLM学术前沿的研究人员提�
 | ------------------------------------------------------------ | ------- | --------------------- | -------- | ------- | ----- | ---- |
 | [Exploring Lottery Prompts for Pre-trained Language Models](https://www.semanticscholar.org/paper/a23d45f22e10173c58a5ee25e5b6c815829671d5) | 2023-05 | ACL                   |          |         |       |      |
 | [Pre-train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natural Language Processing](https://www.semanticscholar.org/paper/28692beece311a90f5fa1ca2ec9d0c2ce293d069) | 2021-07 | ACM Computing Surveys | **1640** |         |       |      |
-|                                                              |         |                       |          |         |       |      |
+|                                                              |         |                       |          |         |       | 、   |
+
+## Ch5. LLM-based Agent
+| Title                                                        | Date    | Publication | citation | Summary | Notes |      |
+| ------------------------------------------------------------ | ------- | ----------- | -------- | ------- | ----- | ---- |
+| [The Rise and Potential of Large Language Model Based Agents: A Survey](https://www.semanticscholar.org/paper/0c72450890a54b68d63baa99376131fda8f06cf9) | 2023-09 | arxiv       |          |         |       |      |
+| [CAMEL: Communicative Agents for "Mind" Exploration of Large Scale Language Model Society](https://www.semanticscholar.org/paper/7ca954844bc1dd405bc43445b1c990e42d865095) |         |             |          |         |       |      |
+| [Reflexion: Language Agents with Verbal Reinforcement Learning](https://www.semanticscholar.org/paper/0671fd553dd670a4e820553a974bc48040ba0819) | 2023-06 | arxiv       | **1640** |         |       |      |
+| Generative Agents: Interactive Simulacra of Human Behavior   | 2023-08 | arxiv       |          |         |       |      |
+| Exploring Large Language Models for Communication Games: An Empirical Study on Werewolf | 2023-09 | arxiv       |          |         |       |      |
+| [Describe, Explain, Plan and Select: Interactive Planning with Large Language Models Enables Open-World Multi-Task Agents](https://www.semanticscholar.org/paper/0935ce0adad57e1b24c50d793d46a407c3f563f3) |         |             |          |         |       |      |
+| [ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs](https://www.semanticscholar.org/paper/0bfc804e31eecfd77f45e4ee7f4d629fffdcd628) |         |             |          |         |       |      |
+| [AgentBench: Evaluating LLMs as Agents](https://www.semanticscholar.org/paper/5dbf93a68b7fda600521f046dea35ea8ba9e884f) |         |             |          |         |       |      |
+| [Language Models can Solve Computer Tasks](https://www.semanticscholar.org/paper/9a75e23639bfcc3a51da57a3b682a984d1d8ac0b) |         |             |          |         |       |      |
+| [ChatEval: Towards Better LLM-based Evaluators through Multi-Agent Debate](https://www.semanticscholar.org/paper/ec58a564fdda29e6a9a0a7bab5eeb4c290f716d7) |         |             |          |         |       |      |
+| [Improving Factuality and Reasoning in Language Models through Multiagent Debate](https://www.semanticscholar.org/paper/4780d0a027c5c5a8e01d7cf697f6296880ffc945) |         |             |          |         |       |      |
+| [Self-collaboration Code Generation via ChatGPT](https://www.semanticscholar.org/paper/ba2f935d2578fbf77ec1aa79e26e3db396771e38) |         |             |          |         |       |      |
 
 
 
-## Ch5. LLM for NLP downstream Tasks
 
-[2305.05003.pdf (arxiv.org)](https://arxiv.org/pdf/2305.05003.pdf)
+
+## Ch6. LLM for NLP downstream Tasks
 
 | Title                                                        | Date    | Publication | citation | Summary | Notes |      |
 | ------------------------------------------------------------ | ------- | ----------- | -------- | ------- | ----- | ---- |
@@ -99,7 +115,7 @@ LLM research的主要目标是给打算跟踪LLM学术前沿的研究人员提�
 |                                                              |         |             |          |         |       |      |
 
 
-## Ch6. LLM for Graph Learning
+## Ch7. LLM for Graph Learning
 
 | Title                                                        | Date    | Publication | citation | Summary | Notes |      |
 | ------------------------------------------------------------ | ------- | ----------- | -------- | ------- | ----- | ---- |
@@ -108,7 +124,7 @@ LLM research的主要目标是给打算跟踪LLM学术前沿的研究人员提�
 |                                                              |         |             |          |         |       |      |
 
 
-## Ch7. LLM with Knowledge Graph
+## Ch8. LLM with Knowledge Graph
 
 | Title                                                        | Date    | Publication | citation | Summary | Notes |      |
 | ------------------------------------------------------------ | ------- | ----------- | -------- | ------- | ----- | ---- |
@@ -127,13 +143,15 @@ LLM research的主要目标是给打算跟踪LLM学术前沿的研究人员提�
 - [余绍缘 核心内容创作者](https://github.com/shaoyuanyu)
 - [袁鑫喆 核心内容创作者](https://github.com)
 - [胡锦琛 核心内容创作者](https://github.com)
+- 吉林大学 车浩源，李昊天，段云娜老师们 核心内容创作者&审核者
+- 东北大学 张富，程经纬老师们 核心内容创作者&审核者
 
 **核心审查者**
 
 1. 非常感谢导师们xxx 仔细审查了本仓库的所有笔记内容，
    感谢他们的大力支持，同时也感谢xxx的伙伴们的大力支持
 
-2. 非常感谢datawhale组织的**谢文睿**，**范晶晶**等对本项目的全程支持。
+2. 非常感谢datawhale组织的好大哥好大姐 **谢文睿**，**范晶晶**等对本项目的全程支持。
 
 
 
