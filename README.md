@@ -21,13 +21,14 @@ LLM research的主要目标是给打算跟踪LLM学术前沿的研究人员提�
 
 ### 1. Low Rank Decomposition Method
 
-| Title                                                        | Date    | Publication | citation | Summary | Notes |      |
+| Title                                                        | Date    | Publication | citation | Summary | Notes | Deadline |
 | ------------------------------------------------------------ | ------- | ----------- | -------- | ------- | ----- | ---- |
-| [LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/pdf/2106.09685.pdf) | 2021-10 | arXiv       |          |         |       |[Lora_series_notes](Lora/Lora_series.md)|
-| [Adaptive Budget Allocation for Parameter-Efficient Fine-Tuning (AdaLoRA)](https://arxiv.org/pdf/2303.10512.pdf) | 2023-02 | ICLR        |          |         |       |      |
-| [QLoRA: Efficient Finetuning of Quantized LLMs](https://arxiv.org/pdf/2305.14314.pdf) | 2023-05 | arxiv       |          |         |       |      |
-| [LongLoRA: Efficient Fine-tuning of Long-Context Large Language Models](https://arxiv.org/abs/2309.12307) | 2023-09 | arxiv       |          |         |       |      |
-|                                                              |         |             |          |         |       |      |
+| [LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/pdf/2106.09685.pdf) | 2021-10 | arXiv       | 1555 |         | @林景豪 |12.17|
+| [Adaptive Budget Allocation for Parameter-Efficient Fine-Tuning (AdaLoRA)](https://arxiv.org/pdf/2303.10512.pdf) | 2023-02 | ICLR        | 55 |         | @林景豪 | 12.17 |
+| [QLoRA: Efficient Finetuning of Quantized LLMs](https://arxiv.org/pdf/2305.14314.pdf) | 2023-05 | arxiv       | 224 |         | @林景豪                                  | 12.17 |
+| [LongLoRA: Efficient Fine-tuning of Long-Context Large Language Models](https://arxiv.org/abs/2309.12307) | 2023-09 | arxiv       | 16 |         | @林景豪 | 12.17 |
+| [Orthogonal Subspace Learning for Language Model Continual Learning(o-lora)](https://arxiv.org/abs/2310.14152) | 2023-10 | arxiv |          |         | @林景豪 | 12.20 |
+| [S-LoRA: Serving Thousands of Concurrent LoRA Adapters](https://arxiv.org/abs/2311.03285) | 2023-11 | arxiv | | | [Lora_series_notes](Lora/Lora_series.md) |  |
 
 
 
@@ -35,7 +36,7 @@ LLM research的主要目标是给打算跟踪LLM学术前沿的研究人员提�
 
 | Title                                                        | Date    | Publication | citation | Summary | Notes |      |
 | ------------------------------------------------------------ | ------- | ----------- | -------- | ------- | ----- | ---- |
-| [Parameter-Efficient Transfer Learning for NLP (Prefix-Tuning)](http://proceedings.mlr.press/v97/houlsby19a.html) | 2019-06 | ICML        |          |         |       |      |
+| [Parameter-Efficient Transfer Learning for NLP (Adapter)](http://proceedings.mlr.press/v97/houlsby19a.html) | 2019-06 | ICML        | 1767     |         |       |      |
 | [AdapterHub: A Framework for Adapting Transformers](https://arxiv.org/abs/2007.07779) | 2020-07 | EMNLP       |          |         |       |      |
 |                                                              |         |             |          |         |       |      |
 
@@ -43,19 +44,19 @@ LLM research的主要目标是给打算跟踪LLM学术前沿的研究人员提�
 
 | Title                                                        | Date    | Publication | citation | Summary | Notes |      |
 | ------------------------------------------------------------ | ------- | ----------- | -------- | ------- | ----- | ---- |
-| [Prefix-Tuning: Optimizing Continuous Prompts for Generation](https://arxiv.org/abs/2101.00190) | 2021-08 | ACL         |          |         |       |      |
-| [GPT Understands, Too (P-Tuning)](https://arxiv.org/abs/2103.10385) | 2021-03 | AI Open     |          |         |       |      |
-| [The Power of Scale for Parameter-Efficient Prompt Tuning (Prompt-Tuning)](https://arxiv.org/abs/2104.08691) | 2021-04 | EMNLP       |          |         |       |      |
-| [P-Tuning v2: Prompt Tuning Can Be Comparable to Fine-tuning Universally Across Scales and Tasks](https://arxiv.org/abs/2110.07602) | 2021-10 | ACL         |          |         |       |      |
-| [Late Prompt Tuning: A Late Prompt Could Be Better Than Many Prompts](https://arxiv.org/abs/2210.11292) | 2022-10 | EMNLP       |          |         |       |      |
-| [Black-Box Tuning for Language-Model-as-a-Service](https://www.semanticscholar.org/paper/002c58077a1f1b296468b117230a1199e91f35c2) | 2022-06 | ICLR        |          |         |       |      |
+| [Prefix-Tuning: Optimizing Continuous Prompts for Generation](https://arxiv.org/abs/2101.00190) | 2021-08 | ACL         | 1859     |         |       |      |
+| [GPT Understands, Too (P-Tuning)](https://arxiv.org/abs/2103.10385) | 2021-03 | AI Open     | 307      |         |       |      |
+| [The Power of Scale for Parameter-Efficient Prompt Tuning (Prompt-Tuning)](https://arxiv.org/abs/2104.08691) | 2021-04 | EMNLP       | 1683     |         |       |      |
+| [P-Tuning v2: Prompt Tuning Can Be Comparable to Fine-tuning Universally Across Scales and Tasks](https://arxiv.org/abs/2110.07602) | 2021-10 | ACL         | 220      |         |       |      |
+| [Late Prompt Tuning: A Late Prompt Could Be Better Than Many Prompts](https://arxiv.org/abs/2210.11292) | 2022-10 | EMNLP       | 6        |         |       |      |
+| [Black-Box Tuning for Language-Model-as-a-Service](https://www.semanticscholar.org/paper/002c58077a1f1b296468b117230a1199e91f35c2) | 2022-06 | ICLR        | 100      |         |       |      |
 
 ### 4. Mixed Method
 
 | Title                                                        | Date     | Publication      | citation | Summary | Notes |      |
 | ------------------------------------------------------------ | -------- | ---------------- | -------- | ------- | ----- | ---- |
-| [UniPELT: A Unified Framework for Parameter-Efficient Language Model Tuning](https://arxiv.org/abs/2110.07577) | 2022-05  | ACL              |          |         |       |      |
-| [Towards a Unified View of Parameter-Efficient Transfer Learning](https://arxiv.org/abs/2110.04366) | 2022 -02 | ICLR (spotlight) |          |         |       |      |
+| [UniPELT: A Unified Framework for Parameter-Efficient Language Model Tuning](https://arxiv.org/abs/2110.07577) | 2022-05  | ACL              | 79       |         |       |      |
+| [Towards a Unified View of Parameter-Efficient Transfer Learning](https://arxiv.org/abs/2110.04366) | 2022 -02 | ICLR (spotlight) | 385      |         |       |      |
 |                                                              |          |                  |          |         |       |      |
 
 
@@ -65,42 +66,42 @@ LLM research的主要目标是给打算跟踪LLM学术前沿的研究人员提�
 ### 1. LOMO-series
 | Title                                                        | Date    | Publication | citation | Summary | Notes |      |
 | ------------------------------------------------------------ | ------- | ----------- | -------- | ------- | ----- | ---- |
-| [Full Parameter Fine-tuning for Large Language Models with Limited Resources](https://arxiv.org/abs/2306.09782) | 2023-06 | arXiv       |          |         |       |      |
-| [AdaLomo: Low-memory Optimization with Adaptive Learning Rate](https://arxiv.org/abs/2310.10195) |         | arXiv       |          |         |       |      |
+| [Full Parameter Fine-tuning for Large Language Models with Limited Resources](https://arxiv.org/abs/2306.09782) | 2023-06 | arXiv       | 7        |         |       |      |
+| [AdaLomo: Low-memory Optimization with Adaptive Learning Rate](https://arxiv.org/abs/2310.10195) | 2023-10 | arXiv       |          |         |       |      |
 |                                                              |         |             |          |         |       |      |
 
 ## Ch3. In-Context-Learning
 
-| Title                                                        | Date | Publication | citation | Summary | Notes |      |
-| ------------------------------------------------------------ | ---- | ----------- | -------- | ------- | ----- | ---- |
-| [Chain of Thought Prompting Elicits Reasoning in Large Language Models](https://www.semanticscholar.org/paper/1b6e810ce0afd0dd093f789d2b2742d047e316d5) |      | Nips2022    | 2141     |         |       |      |
-| [Challenging BIG-Bench Tasks and Whether Chain-of-Thought Can Solve Them](https://www.semanticscholar.org/paper/663a41c866d49ce052801fbc88947d39764cad29) |      | ACL2022     |          |         |       |      |
-| [Automatic Chain of Thought Prompting in Large Language Models](https://www.semanticscholar.org/paper/90350aa626bed47b02d0c162462e5b0ca82be6b2) |      | ICLR2022    |          |         |       |      |
-| [Multimodal Chain-of-Thought Reasoning in Language Models](https://www.semanticscholar.org/paper/780a7f5e8ba9b4b451e3dfee1bcfb0f68aba5050) |      |             |          |         |       |      |
-|                                                              |      |             |          |         |       |      |
+| Title                                                        | Date    | Publication | citation | Summary | Notes |      |
+| ------------------------------------------------------------ | ------- | ----------- | -------- | ------- | ----- | ---- |
+| [Chain of Thought Prompting Elicits Reasoning in Large Language Models](https://www.semanticscholar.org/paper/1b6e810ce0afd0dd093f789d2b2742d047e316d5) | 2023-01 | Nips2022    | 2141     |         |       |      |
+| [Challenging BIG-Bench Tasks and Whether Chain-of-Thought Can Solve Them](https://www.semanticscholar.org/paper/663a41c866d49ce052801fbc88947d39764cad29) | 2022-10 | ACL2022     | 62       |         |       |      |
+| [Automatic Chain of Thought Prompting in Large Language Models](https://www.semanticscholar.org/paper/90350aa626bed47b02d0c162462e5b0ca82be6b2) | 2022-10 | ICLR2022    | 200      |         |       |      |
+| [Multimodal Chain-of-Thought Reasoning in Language Models](https://www.semanticscholar.org/paper/780a7f5e8ba9b4b451e3dfee1bcfb0f68aba5050) | 2023-02 | arxiv       | 100      |         |       |      |
+|                                                              |         |             |          |         |       |      |
 
 ## Ch4. Prompt Engineering
 | Title                                                        | Date    | Publication           | citation | Summary | Notes |      |
 | ------------------------------------------------------------ | ------- | --------------------- | -------- | ------- | ----- | ---- |
-| [Exploring Lottery Prompts for Pre-trained Language Models](https://www.semanticscholar.org/paper/a23d45f22e10173c58a5ee25e5b6c815829671d5) | 2023-05 | ACL                   |          |         |       |      |
 | [Pre-train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natural Language Processing](https://www.semanticscholar.org/paper/28692beece311a90f5fa1ca2ec9d0c2ce293d069) | 2021-07 | ACM Computing Surveys | **1640** |         |       |      |
+| [Exploring Lottery Prompts for Pre-trained Language Models](https://www.semanticscholar.org/paper/a23d45f22e10173c58a5ee25e5b6c815829671d5) | 2023-05 | ACL                   | 1        |         |       |      |
 |                                                              |         |                       |          |         |       | 、   |
 
 ## Ch5. LLM-based Agent
-| Title                                                        | Date    | Publication | citation | Summary | Notes |      |
-| ------------------------------------------------------------ | ------- | ----------- | -------- | ------- | ----- | ---- |
-| [The Rise and Potential of Large Language Model Based Agents: A Survey](https://www.semanticscholar.org/paper/0c72450890a54b68d63baa99376131fda8f06cf9) | 2023-09 | arxiv       |          |         |       |      |
-| [CAMEL: Communicative Agents for "Mind" Exploration of Large Scale Language Model Society](https://www.semanticscholar.org/paper/7ca954844bc1dd405bc43445b1c990e42d865095) |         |             |          |         |       |      |
-| [Reflexion: Language Agents with Verbal Reinforcement Learning](https://www.semanticscholar.org/paper/0671fd553dd670a4e820553a974bc48040ba0819) | 2023-06 | arxiv       | **1640** |         |       |      |
-| Generative Agents: Interactive Simulacra of Human Behavior   | 2023-08 | arxiv       |          |         |       |      |
-| Exploring Large Language Models for Communication Games: An Empirical Study on Werewolf | 2023-09 | arxiv       |          |         |       |      |
-| [Describe, Explain, Plan and Select: Interactive Planning with Large Language Models Enables Open-World Multi-Task Agents](https://www.semanticscholar.org/paper/0935ce0adad57e1b24c50d793d46a407c3f563f3) |         |             |          |         |       |      |
-| [ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs](https://www.semanticscholar.org/paper/0bfc804e31eecfd77f45e4ee7f4d629fffdcd628) |         |             |          |         |       |      |
-| [AgentBench: Evaluating LLMs as Agents](https://www.semanticscholar.org/paper/5dbf93a68b7fda600521f046dea35ea8ba9e884f) |         |             |          |         |       |      |
-| [Language Models can Solve Computer Tasks](https://www.semanticscholar.org/paper/9a75e23639bfcc3a51da57a3b682a984d1d8ac0b) |         |             |          |         |       |      |
-| [ChatEval: Towards Better LLM-based Evaluators through Multi-Agent Debate](https://www.semanticscholar.org/paper/ec58a564fdda29e6a9a0a7bab5eeb4c290f716d7) |         |             |          |         |       |      |
-| [Improving Factuality and Reasoning in Language Models through Multiagent Debate](https://www.semanticscholar.org/paper/4780d0a027c5c5a8e01d7cf697f6296880ffc945) |         |             |          |         |       |      |
-| [Self-collaboration Code Generation via ChatGPT](https://www.semanticscholar.org/paper/ba2f935d2578fbf77ec1aa79e26e3db396771e38) |         |             |          |         |       |      |
+| Title                                                        | Date    | Publication | citation | Summary | Notes   | Deadline |
+| ------------------------------------------------------------ | ------- | ----------- | -------- | ------- | ------- | -------- |
+| [The Rise and Potential of Large Language Model Based Agents: A Survey](https://www.semanticscholar.org/paper/0c72450890a54b68d63baa99376131fda8f06cf9) | 2023-09 | arxiv       | 43       |         | @林景豪 |          |
+| [CAMEL: Communicative Agents for "Mind" Exploration of Large Scale Language Model Society](https://www.semanticscholar.org/paper/7ca954844bc1dd405bc43445b1c990e42d865095) | 2023-11 | Nips        | 61       |         | @林景豪 |          |
+| [Reflexion: Language Agents with Verbal Reinforcement Learning](https://www.semanticscholar.org/paper/0671fd553dd670a4e820553a974bc48040ba0819) | 2023-06 | arxiv       | **1640** |         | @林景豪 |          |
+| Generative Agents: Interactive Simulacra of Human Behavior   | 2023-08 | arxiv       | 263      |         | @林景豪 |          |
+| Exploring Large Language Models for Communication Games: An Empirical Study on Werewolf | 2023-09 | arxiv       | 10       |         | @林景豪 |          |
+| [Describe, Explain, Plan and Select: Interactive Planning with Large Language Models Enables Open-World Multi-Task Agents](https://www.semanticscholar.org/paper/0935ce0adad57e1b24c50d793d46a407c3f563f3) | 2023-10 | Nips        | 79       |         | @林景豪 |          |
+| [ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs](https://www.semanticscholar.org/paper/0bfc804e31eecfd77f45e4ee7f4d629fffdcd628) | 2023-10 | arxiv       | 53       |         | @王淏   |          |
+| [AgentBench: Evaluating LLMs as Agents](https://www.semanticscholar.org/paper/5dbf93a68b7fda600521f046dea35ea8ba9e884f) | 2023-10 | arxiv       | 12       |         | @王淏   |          |
+| [Language Models can Solve Computer Tasks](https://www.semanticscholar.org/paper/9a75e23639bfcc3a51da57a3b682a984d1d8ac0b) | 2023-11 | Nips        | 62       |         | @王淏   |          |
+| [ChatEval: Towards Better LLM-based Evaluators through Multi-Agent Debate](https://www.semanticscholar.org/paper/ec58a564fdda29e6a9a0a7bab5eeb4c290f716d7) | 2023-08 | arxiv       | 29       |         | @王淏   |          |
+| [Improving Factuality and Reasoning in Language Models through Multiagent Debate](https://www.semanticscholar.org/paper/4780d0a027c5c5a8e01d7cf697f6296880ffc945) | 2023-05 | arxiv       | 75       |         | @王淏   |          |
+| [Self-collaboration Code Generation via ChatGPT](https://www.semanticscholar.org/paper/ba2f935d2578fbf77ec1aa79e26e3db396771e38) | 2023-05 | arxiv       | 34       |         | @王淏   |          |
 
 
 
@@ -110,7 +111,7 @@ LLM research的主要目标是给打算跟踪LLM学术前沿的研究人员提�
 
 | Title                                                        | Date    | Publication | citation | Summary | Notes |      |
 | ------------------------------------------------------------ | ------- | ----------- | -------- | ------- | ----- | ---- |
-| [Revisiting Relation Extraction in the era of Large Language Models](https://arxiv.org/pdf/2305.05003.pdf) | 2023-05 | ACL         |          |         |       |      |
+| [Revisiting Relation Extraction in the era of Large Language Models](https://arxiv.org/pdf/2305.05003.pdf) | 2023-05 | ACL         | 14       |         |       |      |
 |                                                              |         |             |          |         |       |      |
 |                                                              |         |             |          |         |       |      |
 
