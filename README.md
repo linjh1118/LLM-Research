@@ -16,6 +16,27 @@ LLM research的主要目标是给打算跟踪LLM学术前沿的研究人员提�
 
 # 经典论文列表
 
+- [LLM Research](#llm-research)
+    - [1. 相关仓库传送门](#1-相关仓库传送门)
+- [项目简介](#项目简介)
+- [经典论文列表](#经典论文列表)
+  - [Ch1. Parameter-Efficient Fine-Tuning](#ch1-parameter-efficient-fine-tuning)
+    - [1. Low Rank Decomposition Method](#1-low-rank-decomposition-method)
+    - [2. Continuous-Prompt Learning Method](#2-continuous-prompt-learning-method)
+    - [3. Adapter Method](#3-adapter-method)
+    - [4. Mixed Method](#4-mixed-method)
+  - [Ch2. Full Parameter Fine-Tuning](#ch2-full-parameter-fine-tuning)
+    - [1. LOMO-series](#1-lomo-series)
+  - [Ch3. In-Context-Learning](#ch3-in-context-learning)
+  - [Ch4. Prompt Engineering](#ch4-prompt-engineering)
+  - [Ch5. LLM-based Agent](#ch5-llm-based-agent)
+  - [Ch6. LLM for Other Tasks](#ch6-llm-for-other-tasks)
+    - [6.1 Relation Extraction](#61-relation-extraction)
+    - [6.2 Graph Learning](#62-graph-learning)
+    - [6.3 Knowledge Graph Reasoning](#63-knowledge-graph-reasoning)
+- [At last](#at-last)
+
+
 ## Ch1. Parameter-Efficient Fine-Tuning
 目前还没有一个仓库有系统地整理“parameter-efficient-finetuning”领域论文。所以本仓库优先整理了这方面的论文。力求覆盖peft库中的基础微调方式。
 
@@ -107,7 +128,7 @@ LLM research的主要目标是给打算跟踪LLM学术前沿的研究人员提�
 
 ## Ch6. LLM for Other Tasks
 
-## 6.1 Relation Extraction
+### 6.1 Relation Extraction
 
 | Title                                                        | Date    | Publication | citation | Summary | Notes | Deadline |
 | ------------------------------------------------------------ | ------- | ----------- | -------- | ------- | ----- | -------- |
