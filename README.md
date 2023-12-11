@@ -88,18 +88,18 @@ LLM research的主要目标是给打算跟踪LLM学术前沿的研究人员提�
 ## Ch5. LLM-based Agent
 | Title                                                        | Date    | Publication | citation | Summary | Notes   | Deadline |
 | ------------------------------------------------------------ | ------- | ----------- | -------- | ------- | ------- | -------- |
+| [ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs](https://www.semanticscholar.org/paper/0bfc804e31eecfd77f45e4ee7f4d629fffdcd628) | 2023-10 | arxiv       | 53       |         | @王淏   | 12.30    |
+| [AgentBench: Evaluating LLMs as Agents](https://www.semanticscholar.org/paper/5dbf93a68b7fda600521f046dea35ea8ba9e884f) | 2023-10 | arxiv       | 12       |         | @王淏   | 12.30    |
 | [The Rise and Potential of Large Language Model Based Agents: A Survey](https://www.semanticscholar.org/paper/0c72450890a54b68d63baa99376131fda8f06cf9) | 2023-09 | arxiv       | 43       |         | @林景豪 | 12.30    |
 | [Reflexion: Language Agents with Verbal Reinforcement Learning](https://www.semanticscholar.org/paper/0671fd553dd670a4e820553a974bc48040ba0819) | 2023-06 | arxiv       | **1640** |         | @林景豪 | 12.30    |
 | [CAMEL: Communicative Agents for "Mind" Exploration of Large Scale Language Model Society](https://www.semanticscholar.org/paper/7ca954844bc1dd405bc43445b1c990e42d865095) | 2023-11 | Nips        | 61       |         | @林景豪 | 1.6      |
 | Generative Agents: Interactive Simulacra of Human Behavior   | 2023-08 | arxiv       | 263      |         | @林景豪 | 1.6      |
-| Exploring Large Language Models for Communication Games: An Empirical Study on Werewolf | 2023-09 | arxiv       | 10       |         | @林景豪 | 1.13     |
-| [Describe, Explain, Plan and Select: Interactive Planning with Large Language Models Enables Open-World Multi-Task Agents](https://www.semanticscholar.org/paper/0935ce0adad57e1b24c50d793d46a407c3f563f3) | 2023-10 | Nips        | 79       |         | @林景豪 | 1.13     |
-| [ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs](https://www.semanticscholar.org/paper/0bfc804e31eecfd77f45e4ee7f4d629fffdcd628) | 2023-10 | arxiv       | 53       |         | @王淏   | 12.30    |
-| [AgentBench: Evaluating LLMs as Agents](https://www.semanticscholar.org/paper/5dbf93a68b7fda600521f046dea35ea8ba9e884f) | 2023-10 | arxiv       | 12       |         | @王淏   | 12.30    |
 | [Language Models can Solve Computer Tasks](https://www.semanticscholar.org/paper/9a75e23639bfcc3a51da57a3b682a984d1d8ac0b) | 2023-11 | Nips        | 62       |         | @王淏   | 1.6      |
 | [ChatEval: Towards Better LLM-based Evaluators through Multi-Agent Debate](https://www.semanticscholar.org/paper/ec58a564fdda29e6a9a0a7bab5eeb4c290f716d7) | 2023-08 | arxiv       | 29       |         | @王淏   | 1.6      |
 | [Improving Factuality and Reasoning in Language Models through Multiagent Debate](https://www.semanticscholar.org/paper/4780d0a027c5c5a8e01d7cf697f6296880ffc945) | 2023-05 | arxiv       | 75       |         | @王淏   | 1.13     |
 | [Self-collaboration Code Generation via ChatGPT](https://www.semanticscholar.org/paper/ba2f935d2578fbf77ec1aa79e26e3db396771e38) | 2023-05 | arxiv       | 34       |         | @王淏   | 1.13     |
+| Exploring Large Language Models for Communication Games: An Empirical Study on Werewolf | 2023-09 | arxiv       | 10       |         | @林景豪 | 1.13     |
+| [Describe, Explain, Plan and Select: Interactive Planning with Large Language Models Enables Open-World Multi-Task Agents](https://www.semanticscholar.org/paper/0935ce0adad57e1b24c50d793d46a407c3f563f3) | 2023-10 | Nips        | 79       |         | @林景豪 | 1.13     |
 
 
 
@@ -109,17 +109,17 @@ LLM research的主要目标是给打算跟踪LLM学术前沿的研究人员提�
 
 ## 6.1 Relation Extraction
 
-| Title                                                        | Date    | Publication | citation | Summary | Notes   | Deadline |
-| ------------------------------------------------------------ | ------- | ----------- | -------- | ------- | ------- | -------- |
-| [Revisiting Relation Extraction in the era of Large Language Models](https://arxiv.org/pdf/2305.05003.pdf) | 2023-05 | ACL         | 14       |         | @林景豪 | 1.20     |
-|                                                              |         |             |          |         |         |          |
-|                                                              |         |             |          |         |         |          |
+| Title                                                        | Date    | Publication | citation | Summary | Notes | Deadline |
+| ------------------------------------------------------------ | ------- | ----------- | -------- | ------- | ----- | -------- |
+| [Revisiting Relation Extraction in the era of Large Language Models](https://arxiv.org/pdf/2305.05003.pdf) | 2023-05 | ACL         | 14       |         | @王淏 | 1.20     |
+|                                                              |         |             |          |         |       |          |
+|                                                              |         |             |          |         |       |          |
 
 ### 6.2 Graph Learning
 
 | Title                                                        | Date    | Publication | citation | Summary | Notes   | Deadline |
 | ------------------------------------------------------------ | ------- | ----------- | -------- | ------- | ------- | -------- |
-| [G-Adapter: Towards Structure-Aware Parameter-Efficient Transfer Learning for Graph Transformer Networks](https://arxiv.org/abs/2305.10329) | 2023-05 | arXiv       |          |         | @林景豪 | 1.20     |
+| [G-Adapter: Towards Structure-Aware Parameter-Efficient Transfer Learning for Graph Transformer Networks](https://arxiv.org/abs/2305.10329) | 2023-05 | arXiv       |          |         | @袁鑫喆 | 1.20     |
 |                                                              |         |             |          |         |         |          |
 |                                                              |         |             |          |         |         |          |
 
