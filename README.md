@@ -2,10 +2,11 @@
 ### 1. 相关仓库传送门
 -  [Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM)仓库由[Xin Cheng](https://github.com/Hannibal046)等人创建，其中汇总了LLM中各方向的高质量论文，同时也包含针对LLM训练，部署应用，入门博客教程等各种资料的地址。
 -  [ICL_PaperList](https://github.com/dqxiu/ICL_PaperList)仓库由[Qingxiu Dong](https://github.com/dqxiu/ICL_PaperList)等人创建，其中汇总了LLM子方向ICL的高质量论文，同时也孵化出了一篇优秀的综述。
-- [邹雨衡](https://github.com/logan-zou),  [长琴](https://yam.gift/),  [玉琳](https://github.com/Sophia-Huang)和众多datawhale开源贡献者一起创作了[datawhalechina/prompt-engineering-for-developers](https://github.com/datawhalechina/prompt-engineering-for-developers)，详实地介绍了prompt engineering，如何用chatgpt和langchain搭建LLM应用，如何使用 Gradio 搭建生成式 AI 应用等内容。
-- [邹雨衡](https://github.com/logan-zou)的[动手写LLM应用开发](logan-zou/Tutorial_for_developing_LLM_application)是一个面向小白开发者的大模型应用开发教程，旨在结合个人知识库助手项目，通过一个课程完成大模型开发的重点入门。此教程不仅包含了很多LLM开发的实战知识，其对LLM各方面基础知识也进行全面介绍。此教程目前即将编写完毕，非常让人期待。
+- [邹雨衡](https://github.com/logan-zou),  [长琴](https://yam.gift/),  [玉琳](https://github.com/Sophia-Huang)和众多datawhale开源贡献者一起创作了[datawhalechina/prompt-engineering-for-developers](https://github.com/datawhalechina/prompt-engineering-for-developers)，详实地介绍了prompt engineering，如何用chatgpt和langchain搭建LLM应用，如何使用 Gradio 搭建生成式 AI 应用等内容。非常推荐一学~
+- [邹雨衡](https://github.com/logan-zou)的[动手写LLM应用开发](logan-zou/Tutorial_for_developing_LLM_application)是一个面向小白开发者的大模型应用开发教程，旨在结合个人知识库助手项目，通过一个课程完成大模型开发的重点入门。此教程不仅包含了很多LLM开发的实战知识，其对LLM各方面基础知识也进行全面介绍。非常推荐一学~
 - [长琴](https://yam.gift/) 等人的[datawhalechina/hugging-llm](https://github.com/datawhalechina/hugging-llm)详细地介绍了ChatGPT原理、使用和应用。读者学习了之后，即可熟练地编写相应代码来调用openai的api进而完成NLP各种下游任务。
-- [陈安东](https://github.com/andongBlue)和[张帆](https://github.com/zhangfanTJU)的[datawhalechina/so-large-lm](https://github.com/datawhalechina/so-large-l)对大模型做出了一个详细的综述，介绍了大模型的技术内容(数据准备、模型构建、训练策略到模型评估与改进等方面)，也介绍了大模型的伦理内容(安全、隐私、环境和法律道德等方面)。
+- [陈安东](https://github.com/andongBlue)和[张帆](https://github.com/zhangfanTJU)的[datawhalechina/so-large-lm](https://github.com/datawhalechina/so-large-l)对大模型做出了一个详细的综述，介绍了大模型的技术内容(数据准备、模型构建、训练策略到模型评估与改进等方面)，也介绍了大模型的伦理内容(安全、隐私、环境和法律道德等方面)。非常推荐一学。
+- [不要葱姜蒜](https://github.com/KMnO4-zx)的[self-llm](https://github.com/datawhalechina/self-llm/tree/master)针对各类开源大模型提供包括环境配置、本地部署、高效微调等技能在内的全流程指导，简化开源大模型的部署、使用和应用流程，让更多的普通学生、研究者更好地使用开源大模型，帮助开源、自由的大模型更快融入到普通学习者的生活中。通过这个项目，读者可以本地部署大模型(Chatglm3, Yi, Qwen, Baichuan)等实现一些有趣的LLM案例~ 非常推荐一学~
 
 # 项目简介
 LLM research的主要目标是给打算跟踪LLM学术前沿的研究人员提供支持。

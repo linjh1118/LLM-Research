@@ -85,7 +85,7 @@ $$
   
     $(W_0+\Delta W)x = (W_0+ \frac{\alpha}{r} BA)x$
   
-- 调用peft库 来lora微调chatglm示例
+- 这里给出项目中调用peft库 使用lora微调chatglm3的例子，详细代码请参考self-llm项目-[在甄嬛对话数据集上用lora微调chatglm](https://github.com/datawhalechina/self-llm/blob/master/ChatGLM/06-ChatGLM3-6B-Lora%E5%BE%AE%E8%B0%83.ipynb)。感谢self-llm给出了精彩有趣的例子
   
     ```python
     from peft import TaskType, get_peft_model, LoraConfig
