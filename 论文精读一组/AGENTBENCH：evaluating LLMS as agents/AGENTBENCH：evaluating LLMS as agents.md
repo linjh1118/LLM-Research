@@ -130,7 +130,7 @@ LTP的名字来源于心理学术语“横向思维”（De Bono，1970），它
 
 见表3
 
-![image-20240117193447913](C:\Users\admin\AppData\Roaming\Typora\typora-user-images\image-20240117193447913.png)
+![image-20240117193447913](https://github.com/linjh1118/LLM-Research/blob/main/%E8%AE%BA%E6%96%87%E7%B2%BE%E8%AF%BB%E4%B8%80%E7%BB%84/AGENTBENCH%EF%BC%9Aevaluating%20LLMS%20as%20agents/image-20240117193447913.png)
 
 结果证伪了最近一些声称OSS LLM可以与gpt-3.5-turbo和gpt-4相媲美的说法。
 
@@ -138,7 +138,7 @@ LTP的名字来源于心理学术语“横向思维”（De Bono，1970），它
 
 不同类型的执行结果占比见表4
 
-![image-20240117193743262](C:\Users\admin\AppData\Roaming\Typora\typora-user-images\image-20240117193743262.png)
+![image-20240117193743262](https://github.com/linjh1118/LLM-Research/blob/main/%E8%AE%BA%E6%96%87%E7%B2%BE%E8%AF%BB%E4%B8%80%E7%BB%84/AGENTBENCH%EF%BC%9Aevaluating%20LLMS%20as%20agents/image-20240117193743262.png)
 
 大量的任务限制超出表明大多数LLM智能体推理和决策能力薄弱。
 
