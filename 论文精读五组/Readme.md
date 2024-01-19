@@ -8,3 +8,4 @@
 请大家在readme文章中写上已提交的论文笔记的名称及提交日期
 
 - Example Thesis Title (2024.01.13)
+- Improving Factuality and Reasoning in Language Models through Multiagent Debate (2024.01.19)
