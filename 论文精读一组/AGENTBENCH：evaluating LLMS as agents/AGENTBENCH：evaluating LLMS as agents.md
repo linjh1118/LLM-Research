@@ -110,7 +110,7 @@ LTP的名字来源于心理学术语“横向思维”（De Bono，1970），它
 
 作者在表一中列出了各个模型的类型，大小，创立者等信息。
 
-![image-20240117175428128](C:\Users\admin\AppData\Roaming\Typora\typora-user-images\image-20240117175428128.png)
+![image-20240117175428128](https://github.com/linjh1118/LLM-Research/blob/main/%E8%AE%BA%E6%96%87%E7%B2%BE%E8%AF%BB%E4%B8%80%E7%BB%84/AGENTBENCH%EF%BC%9Aevaluating%20LLMS%20as%20agents/image-20240117175428128.png))
 
 #### 工具包
 
