@@ -8,3 +8,4 @@
 请大家在readme文章中写上已提交的论文笔记的名称及提交日期
 
 - AGENTBENCH：evaluating LLMS as agents (2024.01.19)
+- ReLLa: Retrieval-enhanced Large Language Models for Lifelong Sequential Behavior Comprehension in Recommendation (2024.02.03)
