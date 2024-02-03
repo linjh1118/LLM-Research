@@ -8,3 +8,4 @@
 请大家在readme文章中写上已提交的论文笔记的名称及提交日期
 
 - Reflexion： Language Agents with Verbal Reinforcement Learning (2024.01.18)
+- Recommendation as Instruction Following A Large Language Model Empowered Recommendation Approach (2024.02.02)

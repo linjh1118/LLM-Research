@@ -10,3 +10,5 @@
 - Exploring Lottery Prompts for Pre-trained Language Models(2024.01.17)
 - Making Pre-trained Language Models Better Few-shot Learners(2024.01.17)
 - UNIPELT-A Unified Framework for Parameter-Efficient(2024.01.17)
+- QLORA--Efficient Finetuning of Quantized LLMs(2024.01.22)
+- Orthogonal Subspace Learning for Language Model Continual Learning(2024.01.29)
