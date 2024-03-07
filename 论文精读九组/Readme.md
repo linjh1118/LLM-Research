@@ -11,3 +11,4 @@
 - Reflexion： Language Agents with Verbal Reinforcement Learning（2024.2.23）
 - 推荐作为指令遵循：一种基于大型语言模型的推荐方法（2024.2.23）
 - how can recommender systems benefit from large language models（2024.2.23）
+-MULTIINSTRUCT: Improving Multi-Modal Zero-Shot Learning via Instruction Tuning(2024.3.2)
