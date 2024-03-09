@@ -10,3 +10,4 @@
 - CHATEVAL TOWARDS BETTER LLM-BASED EVALUATORS THROUGH MULTI-AGENT DEBATE (2024.01.19)
 - Confucius Iterative Tool Learning from Introspection Feedback by Easy-to-Difficult Curriculum (2024.02.24)
 - Evaluating Object Hallucination in Large Vision-Language Models (2024.02.24)
+- mPLUG-Owl Modularization Empowers Large Language Models with Multimodality (2024.03.09)
