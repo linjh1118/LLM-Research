@@ -10,3 +10,4 @@
 - AGENTBENCH：evaluating LLMS as agents (2024.01.19)
 - ReLLa: Retrieval-enhanced Large Language Models for Lifelong Sequential Behavior Comprehension in Recommendation (2024.02.03)
 - Rethinking the Evaluation for Conversational Recommendation in the Era of Large Language Models (2024.02.24)
+- Mixtral of Experts (2024.03.09)

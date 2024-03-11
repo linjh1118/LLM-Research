@@ -10,3 +10,4 @@
 - Reflexion： Language Agents with Verbal Reinforcement Learning (2024.01.18)
 - Recommendation as Instruction Following A Large Language Model Empowered Recommendation Approach (2024.02.02)
 - UniGen: A Unified Generative Framework for Retrieval and Question Answering with Large Language Models(2024.02.15)
+- Interleaving Retrieval with Chain-of-Thought Reasoning for Knowledge-Intensive Multi-Step Questions(2024.03.09)
