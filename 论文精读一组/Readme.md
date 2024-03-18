@@ -11,3 +11,4 @@
 - ReLLa: Retrieval-enhanced Large Language Models for Lifelong Sequential Behavior Comprehension in Recommendation (2024.02.03)
 - Rethinking the Evaluation for Conversational Recommendation in the Era of Large Language Models (2024.02.24)
 - Mixtral of Experts (2024.03.09)
+- PEMT: Multi-Task Correlation Guided Mixture-of-Experts Enables Parameter-Efficient Transfer Learning (2024.03.17)
