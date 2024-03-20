@@ -9,3 +9,5 @@
 
 - Example Thesis Title (2024.01.13)
 - Improving Factuality and Reasoning in Language Models through Multiagent Debate (2024.01.19)
+- RAPTOR Recursive Abstractive Processing for Tree-Organized Retrieval（2024.3.18）
+- Enhancing Job Recommendation through LLM-based Generative Adversarial Networks（2024.3.18）
