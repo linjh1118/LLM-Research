@@ -11,3 +11,5 @@
 - Confucius Iterative Tool Learning from Introspection Feedback by Easy-to-Difficult Curriculum (2024.02.24)
 - Evaluating Object Hallucination in Large Vision-Language Models (2024.02.24)
 - mPLUG-Owl Modularization Empowers Large Language Models with Multimodality (2024.03.09)
+- Learning to Generate Instruction Tuning Datasets for Zero-Shot Task Adaptation (2024.03.16)
+- BGE M3-Embedding Multi-Lingual, Multi-Functionality,Multi-Granularity Text Embeddings Through Self-Knowledge Distillation (2024.03.23)
