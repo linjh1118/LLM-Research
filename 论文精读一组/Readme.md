@@ -12,4 +12,4 @@
 - Rethinking the Evaluation for Conversational Recommendation in the Era of Large Language Models (2024.02.24)
 - Mixtral of Experts (2024.03.09)
 - PEMT: Multi-Task Correlation Guided Mixture-of-Experts Enables Parameter-Efficient Transfer Learning (2024.03.17)
-- QWEN TECHNICAL REPORT (2024.3.31)
+- QWEN TECHNICAL REPORT (2024.03.31)
